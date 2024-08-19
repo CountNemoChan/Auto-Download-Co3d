@@ -1,4 +1,4 @@
-# Automatic Download Co3d
+# Automatically Download Co3d
 
 ```python
 python auto_download.py
